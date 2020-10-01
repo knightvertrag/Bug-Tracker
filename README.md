@@ -1,4 +1,4 @@
-# bug_tracker
+# Bug Bullet
 
 A new Flutter project.
 
